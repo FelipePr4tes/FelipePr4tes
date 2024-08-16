@@ -8,7 +8,7 @@
 </div>
 
 ### 🧑‍💻 Sobre Mim
-- 🌱 Olá, sou **Felipe Prates** e tenho 21 anos.
+- 🌱 Olá, sou **Felipe Prates** e tenho 23 anos.
 - 🎓 Estudante de Desenvolvimento de Software.
 - 💼 Trabalho como eletricista na **RGE Sul**.
 - 💻 Tenho experiência em **HTML**, **CSS**, e **Java**.
@@ -36,3 +36,6 @@ Para mais conteúdo sobre programação e atualizações, siga-me nas redes abai
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
 </div>
+
+### 🌟 Certificados
+Você pode [Visualizar Meu Certificado](https://drive.google.com/file/d/1tHdAeKrpv7pBLcpdvrmYFsneSCdICMKR/view?usp=sharing) diretamente no Google Drive.
