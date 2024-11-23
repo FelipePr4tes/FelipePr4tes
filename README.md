@@ -1,41 +1,68 @@
-<h2 align="center">Bem-vindo(a) ao perfil de Felipe Prates 😁</h2>
+# 🌟 **Felipe Prates** | Desenvolvedor Web 🚀  
+
+Bem-vindo ao meu GitHub!  
+Sou um **desenvolvedor em constante evolução**, focado em criar **soluções eficientes e funcionais**. Este espaço é dedicado à minha jornada no mundo da **tecnologia**, explorando **desenvolvimento web**, **automação** e **segurança digital**.  
+
+---
+
+## 📊 **GitHub Stats**  
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipePr4tes&show_icons=true&theme=dracula&hide_title=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePr4tes&layout=compact&theme=dracula" alt="Top Languages" height="160"/>
+</div>
+
+---
+
+## 🔧 **Tecnologias & Ferramentas**  
+
+<div align="center">
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap"/>
+  <img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/>
+  
+  <!-- Ícones de Kali Linux e Power BI -->
+  <img src="https://img.icons8.com/color/48/000000/kali-linux.png" alt="Kali Linux"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI"/>
+</div>
+
+---
+
+## 📝 **Sobre Mim**  
+
+- 🎓 **Estudante de Análise e Desenvolvimento de Sistemas** na FETEC.  
+- 💼 **Eletricista** na RGE Sul, com experiência em automação e controle.  
+- 🎯 Meu objetivo é expandir meu conhecimento em desenvolvimento web e automação.  
+- 💡 Apaixonado por aprender novas tecnologias e explorar o mundo da segurança digital.  
+- 🎮 Gerencio servidores DayZ e adoro criar sites interativos.  
+
+---
+
+## 📬 **Entre em Contato**  
+
+<div align="center">
+  <a href="mailto:fdspr4tes@gmail.com">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="50"/>
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-prates-4a415a31b/">
+    <img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" alt="LinkedIn" width="50"/>
+  </a>
   <a href="https://github.com/FelipePr4tes">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=FelipePr4tes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipePr4tes&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img src="https://img.icons8.com/ios-glyphs/48/000000/github.png" alt="GitHub" width="50"/>
+  </a>
+  <a href="https://felipepra4tesdev.netlify.app/">
+    <img src="https://img.icons8.com/color/48/000000/domain.png" alt="Portfólio" width="50"/>
   </a>
 </div>
 
-### 🧑‍💻 Sobre Mim
-- 🌱 Olá, sou **Felipe Prates** e tenho 23 anos.
-- 🎓 Estudante de Desenvolvimento de Software.
-- 💼 Trabalho como eletricista na **RGE Sul**.
-- 💻 Tenho experiência em **HTML**, **CSS**, e **Java**.
+---
 
-### 🚀 Tecnologias & Ferramentas
-<div align="center"><br>
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+## 🛠️ **Como Contribuir**  
 
-<br>
+Se você deseja colaborar, sinta-se à vontade para explorar meus repositórios e enviar sugestões. Estou aberto a ideias, feedback e colaborações em projetos de desenvolvimento e automação.  
 
-### 🌍 Redes Sociais
-Para mais conteúdo sobre programação e atualizações, siga-me nas redes abaixo!
+---
 
-<div align="center"> 
-  <a href="https://instagram.com/felipepr4tes" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/felipe-prates-4a415a31b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://twitter.com/felipepr4tes" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  </a>
-</div>
-
-### 🌟 Certificados
-Você pode [Visualizar Meu Certificado](https://drive.google.com/file/d/1tHdAeKrpv7pBLcpdvrmYFsneSCdICMKR/view?usp=sharing) diretamente no Google Drive.
+🌟 **Obrigado por visitar meu perfil!** Vamos construir algo incrível juntos. 🚀
